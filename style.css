@@ -1,0 +1,48 @@
+body{
+    background-color: #EECAD5;
+    margin: auto;
+    padding: auto;
+    font-family: "Quicksand", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    text-align: center;
+}
+
+header{
+    background-color: #D1E9F6;
+    display: grid;
+    height: 620px;
+}
+
+main {
+    background-color: #F1D3CE;
+}
+
+#brev-content {
+    display: none;
+    margin-top: 25px;
+    margin: 1em auto;
+    padding: 2rem 35px;
+    background-color: #F6EACB;
+    width: 60vw;
+    max-width: 500px;
+    min-width: 250px;
+    text-align: left;
+}
+
+#brev {
+    margin: 1em auto;
+}
+
+footer {
+    background-color: #EECAD5;
+    margin: 0;
+    padding: auto;
+}
+
+footer p {
+    margin: 1em auto;
+    padding: auto;
+    color: crimson;
+}
